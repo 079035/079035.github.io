@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Jordi D.C."
-  avatar           : "/images/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/mi.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi :)"
   location         : "Dallas, TX"
   email            : "jordi.del.castillo@lmco.com"
