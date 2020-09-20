@@ -97,7 +97,6 @@ author:
   avatar           : "/images/KakaoTalk_20200919_195201345.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi :)"
   location         : "Dallas, TX"
-  location         : "Lockheed Martin, DFW"
   email            : "jordi.del.castillo@lmco.com"
   links:
     - label: "Email"
