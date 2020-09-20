@@ -58,8 +58,6 @@ We go to rot13.com and decrypt it:
 Time to make some POST requests.
 We normally use [cURL] to make **GET** and **POST** requests.
 
-[cURL]: (https://en.wikipedia.org/wiki/CURL)
-
 In your terminal: type: ```curl -XPOST https://www.hackthwebox.eu/api/invite/generate```
 
 You'll get something like this:
@@ -77,4 +75,6 @@ That is our invite code(Yours might look slightly different).
 
 Thank you,
 
-Jordi
+079
+
+[cURL]: ("https://en.wikipedia.org/wiki/CURL")
