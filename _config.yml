@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "This is ARES"
+title                    : "079"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jordi D.C."
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Jordi D.C."
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Cyber security enthusiast. @LockheedMartin"
+  bio              : "Hi :)"
   location         : "Dallas, TX"
   email            :
   links:
