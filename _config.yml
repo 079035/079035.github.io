@@ -24,8 +24,8 @@ description              : "hackthebox.eu Boxes, Pwning, Web, Reverse Engineerin
 url                      : "https://079035.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/images/Ares_Web_Logo.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "images/Ares_Web_Logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : "/images/hurricane.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "images/finger.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
