@@ -59,6 +59,7 @@ Vulnerability: Basically security hole on the target system that we are trying t
 Now let's get right into it.
 
 Our target is **10.10.10.191** in hackthebox.eu A.K.A. **"Blunder"**, you won't be able to access it right now because you need a hackthebox.eu VPN to access it.
+
 ![Blunder](https://raw.githubusercontent.com/079035/079035.github.io/master/images/blunder/blunder.PNG)
 
 ```sudo openvpn 079.ovpn```
