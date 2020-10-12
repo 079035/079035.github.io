@@ -13,6 +13,7 @@
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "default", "dark", "dirt", "mint", "plum", "sunrise"
+favicon: assets/favicon.ico
 
 # Site Settings
 locale                   : "en-US"
