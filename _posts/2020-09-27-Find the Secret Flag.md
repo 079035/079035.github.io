@@ -1,5 +1,5 @@
 ---
-title: "Find the Secret Flag"
+title: "Find the Secret Flag - Jordi Del Castillo"
 date: 2020-09-27 13:16:30 -0400
 categories: reverse_engineering
 ---
