@@ -1,8 +1,10 @@
 ---
-title: "Find the Secret Flag - Jordi Del Castillo"
+title: "Find the Secret Flag"
 date: 2020-09-27 13:16:30 -0400
 categories: reverse_engineering
 ---
+Jordi Del Castillo
+
 Hi there, today, we will go over our first reverse engineering challenge.
 
 What is reverse engineering? It is basically going through a program and analyzing it to understand the process
