@@ -20,9 +20,9 @@ locale                   : "en-US"
 title                    : "079"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Jordi D.C."
+name                     : "079"
 favicon                  : "assets/favicon.ico"
-description              : "hackthebox.eu Boxes, Pwning, Web, Reverse Engineering, C++, etc."
+description              : "hackthebox.eu Boxes, Pwning, C++, etc."
 url                      : "https://079035.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,11 +95,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jordi D.C."
+  name             : "079"
   avatar           : "/ares_large_image_6.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Nonstop"
-  location         : "Dallas, TX"
-  email            : "jordi.del.castillo@lmco.com"
+  bio              : "079"
+  location         : "NY"
+  email            : "sroot079@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
