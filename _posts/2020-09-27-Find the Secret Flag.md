@@ -3,7 +3,7 @@ title: "[Article] Find the Secret Flag"
 date: 2020-09-27 13:16:30 -0400
 categories: reverse_engineering
 ---
-Jordi Del Castillo
+079
 
 Hi there, today, we will go over our first reverse engineering challenge.
 
