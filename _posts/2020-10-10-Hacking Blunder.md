@@ -4,7 +4,7 @@ date: 2020-10-10 21:52:30 -0400
 categories: Hacking
 ---
 
-Hi, this is Jordi and this is my first hacking walkthrough.
+Hi, this is 079 and this is my first hacking walkthrough.
 
 **Introduction**
 
