@@ -1,3 +1,8 @@
+---
+title: "Dice 23 BOP"
+date: 2023-02-11 17:31:30 -0400
+categories: Pwn
+---
 # BOP
 This is write-up for BOP.
 
