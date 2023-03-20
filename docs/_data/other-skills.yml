@@ -1,0 +1,7 @@
+- name: Quantitative Trading
+  percentage: 50
+  color: info
+
+- name: Machine Learning
+  percentage: 35
+  color: success
