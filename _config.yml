@@ -27,7 +27,7 @@ url                      : "https://079035.github.io" # the base hostname & prot
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/images/download.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/angel.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/images/angel.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -96,7 +96,7 @@ analytics:
 # Site Author
 author:
   name             : "079"
-  avatar           : "/ares_large_image_6.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/ronin.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "079"
   location         : "NY"
   email            : "sroot079@gmail.com"
