@@ -1,7 +1,10 @@
 ---
-title: "[Article] Find the Secret Flag"
-date: 2020-09-27 13:16:30 -0400
-categories: reverse_engineering
+title: "Find the Secret Flag"
+style: fill
+color: success
+comments: true
+description: hackthebox reverse engineering challenge
+tags: reverse_engineering
 ---
 079
 

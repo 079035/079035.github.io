@@ -1,7 +1,10 @@
 ---
 title: "Hacking 'Blunder'"
-date: 2020-10-10 21:52:30 -0400
-categories: Hacking
+style: fill
+color: primary
+comments: true
+description: hackthebox.eu easy box challenge
+tags: general
 ---
 
 Hi, this is 079 and this is my first hacking walkthrough.

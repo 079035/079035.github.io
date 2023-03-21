@@ -1,7 +1,10 @@
 ---
 title: "Welcome!"
-date: 2020-09-10 19:26:28 -0400
-categories: jekyll update
+style: fill
+color: warning
+comments: true
+description: first post
+tags: general
 ---
 This is 079 and I'll be posting challenge and box write-ups, tutorials, and programming materials.
 DM me for any questions and suggestions on discord: _**079#9091**_

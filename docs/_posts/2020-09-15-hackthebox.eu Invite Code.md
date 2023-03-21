@@ -1,7 +1,10 @@
 ---
 title: "hackthebox.eu Invite Code"
-date: 2020-09-19 15:09:28 -0400
-categories: jekyll update
+style: fill
+color: info
+comments: true
+description: hackthebox registration tutorial
+tags: general
 ---
 Today, we will go over how to obtain the invite code in hackthebox.eu and register.
 
