@@ -8,10 +8,10 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am working very hard on getting better at solving CTF challenges.
-I tend of focus on pwnable challenges, and I try to expose myself to a various types of pwn challenges (userspace, kernel, web browser, smart contract, etc.)
-so that I can decide which area of pwn I can specialize on.
-I am also interested in quantitative finance and machine learning:smile:.
+I am working very hard on getting better at solving CTF challenges.<br>
+I tend of focus on pwnable challenges, and I try to expose myself to a various types of pwn challenges (userspace, kernel, web browser, smart contract, etc.)<br>
+so that I can decide which area of pwn I can specialize on.<br>
+I am also interested in quantitative finance and machine learning:smile:.<br>
 Thank you for your interest.
 
 <div class="row">
