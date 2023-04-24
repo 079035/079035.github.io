@@ -4,7 +4,7 @@ style: fill
 color: danger
 comments: true
 description: dice ctf smart contract challenge
-tags: CTF BlockChain Pwn
+tags: CTF BlockChain
 ---
 # Baby Solana
 
