@@ -1,7 +1,7 @@
 ---
 title: "Dice '23 Baby Solana"
-style: fill
-color: border
+style: border
+color: danger
 comments: true
 description: dice ctf smart contract challenge
 tags: CTF BlockChain
