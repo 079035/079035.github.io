@@ -1,10 +1,10 @@
 ---
 title: "Dice '23 Baby Solana"
-style: border
-color: primary
+style: fill
+color: danger
 comments: true
 description: dice ctf smart contract challenge
-tags: Pwn
+tags: CTF BlockChain Pwn
 ---
 # Baby Solana
 

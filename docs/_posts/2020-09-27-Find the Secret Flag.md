@@ -1,10 +1,10 @@
 ---
 title: "Find the Secret Flag"
-style: fill
-color: success
+style: border
+color: primary
 comments: true
 description: hackthebox reverse engineering challenge
-tags: reverse_engineering
+tags: RE
 ---
 079
 

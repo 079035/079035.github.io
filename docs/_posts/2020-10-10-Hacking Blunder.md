@@ -1,7 +1,7 @@
 ---
 title: "Hacking 'Blunder'"
-style: fill
-color: primary
+style: border
+color: info
 comments: true
 description: hackthebox.eu easy box challenge
 tags: general

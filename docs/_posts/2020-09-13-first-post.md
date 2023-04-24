@@ -1,7 +1,7 @@
 ---
 title: "Welcome!"
-style: fill
-color: warning
+style: border
+color: info
 comments: true
 description: first post
 tags: general

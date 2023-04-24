@@ -1,7 +1,7 @@
 ---
 title: "LINE CTF '23 simple blogger"
-tags: CTF, Browser
-style: border
+tags: CTF Pwn
+style: fill
 color: success
 comments: true
 description: LINE CTF's cool pwn challenge
