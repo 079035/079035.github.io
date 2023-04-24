@@ -2,7 +2,7 @@
 title: "HTB Kernel Adventures: Part 1"
 tags: Kernel Pwn
 style: fill
-color: dark
+color: primary
 comments: true
 description: Double fetch / race condition
 ---
