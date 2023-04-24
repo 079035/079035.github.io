@@ -1,6 +1,6 @@
 ---
 title: "hackthebox.eu Invite Code"
-style: border
+style: fill
 color: success
 comments: true
 description: hackthebox registration tutorial
