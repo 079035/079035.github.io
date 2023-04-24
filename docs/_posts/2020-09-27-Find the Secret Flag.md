@@ -1,6 +1,6 @@
 ---
 title: "Find the Secret Flag"
-style: border
+style: fill
 color: primary
 comments: true
 description: hackthebox reverse engineering challenge
