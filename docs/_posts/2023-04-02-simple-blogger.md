@@ -1,6 +1,6 @@
 ---
 title: "LINE CTF '23 simple blogger"
-tags: Pwn
+tags: CTF, Browser
 style: border
 color: success
 comments: true
