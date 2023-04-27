@@ -1,5 +1,5 @@
 - name: C/C++
-  percentage: 99
+  percentage: 90
   color: danger
 
 - name: Python

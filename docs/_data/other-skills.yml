@@ -1,7 +1,7 @@
-- name: Quantitative Trading
-  percentage: 50
+- name: Machine Learning
+  percentage: 25
   color: info
 
-- name: Machine Learning
-  percentage: 35
+- name: Quantum Computing
+  percentage: 20
   color: success
