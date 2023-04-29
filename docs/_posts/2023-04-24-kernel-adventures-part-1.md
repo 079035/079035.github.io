@@ -1,5 +1,5 @@
 ---
-title: "HTB Kernel Adventures: Part 1"
+title: "Hack the Box Kernel Adventures: Part 1"
 tags: Kernel Pwn
 style: fill
 color: primary

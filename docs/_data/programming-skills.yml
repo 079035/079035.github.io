@@ -1,12 +1,12 @@
 - name: C/C++
-  percentage: 90
+  percentage: 95
   color: danger
 
 - name: Python
-  percentage: 85
+  percentage: 75
   color:
 
 - name: Assembly
-  percentage: 80
+  percentage: 65
   color: secondary
   
