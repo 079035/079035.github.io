@@ -1,6 +1,6 @@
 ---
 title: "Hack the Box Kernel Adventures: Part 1"
-tags: Kernel Pwn
+tags: Kernel
 style: fill
 color: primary
 comments: true

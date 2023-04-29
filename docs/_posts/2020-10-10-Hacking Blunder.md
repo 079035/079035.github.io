@@ -1,10 +1,10 @@
 ---
-title: "Hacking 'Blunder'"
+title: "Hack the Box 'Blunder'"
 style: fill
 color: info
 comments: true
 description: hackthebox.eu easy box challenge
-tags: web
+tags: Web
 ---
 
 Hi, this is 079 and this is my first hacking walkthrough.

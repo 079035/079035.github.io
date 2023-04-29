@@ -4,7 +4,7 @@ style: border
 color: info
 comments: true
 description: first post
-tags: general
+tags: General
 ---
 This is 079 and I'll be posting challenge and box write-ups, tutorials, and programming materials.
 DM me for any questions and suggestions on discord: _**079#9091**_

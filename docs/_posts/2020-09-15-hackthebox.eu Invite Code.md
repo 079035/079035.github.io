@@ -1,10 +1,10 @@
 ---
-title: "hackthebox.eu Invite Code"
+title: "Hack the Box Invite Code"
 style: fill
 color: success
 comments: true
 description: hackthebox registration tutorial
-tags: web
+tags: Web
 ---
 Today, we will go over how to obtain the invite code in hackthebox.eu and register.
 
