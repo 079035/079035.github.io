@@ -1,5 +1,5 @@
 ---
-title: "Find the Secret Flag"
+title: "Hack the Box: Find the Secret Flag"
 style: fill
 color: primary
 comments: true

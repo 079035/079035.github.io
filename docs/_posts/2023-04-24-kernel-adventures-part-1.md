@@ -1,5 +1,5 @@
 ---
-title: "Hack the Box Kernel Adventures: Part 1"
+title: "Hack the Box: Kernel Adventures: Part 1"
 tags: Kernel
 style: fill
 color: primary

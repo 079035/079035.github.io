@@ -1,5 +1,5 @@
 ---
-title: "LINE '23 simple blogger"
+title: "LINE '23: simple blogger"
 tags: CTF Pwn
 style: border
 color: success

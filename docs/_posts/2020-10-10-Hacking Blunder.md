@@ -1,5 +1,5 @@
 ---
-title: "Hack the Box 'Blunder'"
+title: "Hack the Box: Blunder"
 style: fill
 color: info
 comments: true

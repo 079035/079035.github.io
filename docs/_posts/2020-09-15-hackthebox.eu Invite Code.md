@@ -1,5 +1,5 @@
 ---
-title: "Hack the Box Invite Code"
+title: "Hack the Box: Invite Code"
 style: fill
 color: success
 comments: true

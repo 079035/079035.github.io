@@ -1,5 +1,5 @@
 ---
-title: "Dice '23 Baby Solana"
+title: "Dice '23: Baby Solana"
 style: border
 color: danger
 comments: true
