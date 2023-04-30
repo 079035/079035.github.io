@@ -1,6 +1,6 @@
 const STORAGE_KEY = "theme";
 const THEME_ATTR  = "data-theme";
-const QUERY_KEY   = "(prefers-color-scheme: light)";
+const QUERY_KEY   = "(prefers-color-scheme: LIGHT)";
 
 const themes = {
   LIGHT: "light",
