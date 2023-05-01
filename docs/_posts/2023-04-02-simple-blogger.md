@@ -4,7 +4,7 @@ tags: CTF Pwn
 style: border
 color: success
 comments: true
-description: LINE CTF's cool pwn challenge
+description: LINE CTF's server-client pwn challenge
 ---
 
 # Simple Blogger

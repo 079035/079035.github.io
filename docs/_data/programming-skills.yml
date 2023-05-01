@@ -3,10 +3,10 @@
   color: danger
 
 - name: Python
-  percentage: 75
+  percentage: 80
   color:
 
 - name: Assembly
-  percentage: 65
+  percentage: 75
   color: secondary
   
