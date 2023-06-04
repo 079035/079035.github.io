@@ -4,7 +4,7 @@ tags: pwn
 style: border
 color: dark
 comments: true
-description: Solutions to some LiveCTF challenges from DEFCON 2023 Quals
+description: Solutions to LiveCTF challenges from DEFCON 2023 Quals
 ---
 
 # LiveCTF
