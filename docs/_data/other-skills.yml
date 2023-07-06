@@ -1,7 +1,7 @@
-- name: Machine Learning
-  percentage: 25
+- name: Cloud Computing
+  percentage: 70
   color: info
 
-- name: Quantum Computing
-  percentage: 20
+- name: Machine Learning
+  percentage: 25
   color: success
