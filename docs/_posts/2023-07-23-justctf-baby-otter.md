@@ -1,6 +1,6 @@
 ---
 title: "Just CTF: Baby Otter"
-tags: solana
+tags: CTF solana
 style: border
 color: danger
 comments: true

@@ -1,6 +1,6 @@
 ---
 title: "DEFCON 2023 Qualifier: LiveCTF"
-tags: pwn
+tags: Pwn
 style: border
 color: dark
 comments: true
