@@ -1,7 +1,11 @@
-- name: Cloud Computing
-  percentage: 70
+- name: Math Modeling
+  percentage: 80
   color: info
 
 - name: Machine Learning
-  percentage: 25
+  percentage: 75
+  color: warning
+
+- name: High Performance Computing
+  percentage: 50
   color: success
