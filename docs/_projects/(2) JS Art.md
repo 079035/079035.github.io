@@ -18,4 +18,4 @@ Some artworks with JavaScript and creative coding.
 # Kinetic Typography
 ![alt text](https://github.com/079035/JavaScript-Art/blob/main/Kinetic%20Typography/kinetic.gif?raw=true)
 
-Codes can be found ![here](https://github.com/079035/JavaScript-Art?search=1)
+Codes can be found [here](https://github.com/079035/JavaScript-Art?search=1).
