@@ -8,11 +8,12 @@ weight: 3
 # **About Me**
 
 Hi I am Jordi :wave:,<br>
-I am working on getting better at CTFs, software engineering, and coding in general.<br>
-I tend of focus on pwnable challenges, and I try to expose myself to a various types of challenges (machine learning, userspace, kernel, browser, smart contract)
-so that I can decide which area of pwn I can specialize on.<br>
-I am also interested in quantitative finance and machine learning:smile:.<br>
-Thank you for your interest.
+I am working on getting better at machine learning, software engineering, and math in finance in general.<br>
+I tend of focus on model-bulding and puzzle-like challenges, and I try to expose myself to a various types of challenges that interests me(LLM, kernel programming, cybersecurity):smile:.<br>
+All source code for this website can be accessed [here](https://github.com/079035/079035.github.io/tree/master/docs).<br>
+I can be reached out at jd5018@nyu.edu <br>
+
+Thank you for your interest!
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
