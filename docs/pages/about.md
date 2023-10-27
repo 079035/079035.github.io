@@ -14,7 +14,7 @@ I tend of focus on model-bulding and puzzle-like challenges.<br>
 And I try to expose myself to a various types of challenges that interests me(LLM, kernel programming, cybersecurity):smile:.<br>
 
 All source code for this website can be accessed [here](https://github.com/079035/079035.github.io/tree/master/docs).<br>
-And for any questions, I can be reached out here! jd5018@nyu.edu <br>
+And for any questions, I can be reached out here! jordi.d@nyu.edu <br>
 
 Thank you for your interest.
 
