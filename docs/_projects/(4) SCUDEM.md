@@ -1,5 +1,5 @@
 ---
-name: (Paper) SCUDEM - SIMIODE Challenge Using Differential Equations Modeling
+name: SCUDEM - SIMIODE Challenge Using Differential Equations Modeling
 tools: [Math Modeling, Differential Equations]
 image:
 description: The paper is also on the way
