@@ -39,11 +39,13 @@ description: Math Modeling Competition Submission for SCUDEM - SIMIODE Challenge
 
 ## Simulation
 [**Model Code**](https://colab.research.google.com/drive/1ciyPTq1ldpTh46roqtWqZkvdW2fFYayx?usp=sharing)
+
 We implemented our simulation through Python in Jupyter, and using 100 iterations with the initial sample variables of:
 
 - I = 0
 - A = 100
 - N = 900
+
 ### Simulation Goals
 - What would happen if people stayed in jail longer? 
 - Or if jail better corrected behavior? 
