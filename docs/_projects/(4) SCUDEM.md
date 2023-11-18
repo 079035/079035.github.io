@@ -59,7 +59,7 @@ We implemented our simulation through Python in Jupyter, and using 100 iteration
 - Furthermore, we want to avoid excessive punishment as this ultimately hurts the population which results in the lowest neutral population
 
 ## Video Explanation
-[**Youtube**](https://www.youtube.com/watch?v=BgyvjgL54UI)
+[![Youtube](https://img.youtube.com/vi/BgyvjgL54UI/0.jpg)](https://www.youtube.com/watch?v=BgyvjgL54UI)
 
 [**Slides**](https://docs.google.com/presentation/d/1QXDd7EhSvdPiYO9JcSWWJtSskwC9-boLd_T40FAxojE/edit?usp=sharing)
 
