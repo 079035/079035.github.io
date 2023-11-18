@@ -36,7 +36,8 @@ description: Math Modeling Competition Submission for SCUDEM - SIMIODE Challenge
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/scudem/markov.png)
 
 ## Simulation
-We implemented our simulation through code, and using 100 iterations with the initial sample variables of:
+We implemented our simulation through Python in Jupyter, and using 100 iterations with the initial sample variables of:
+
 I = 0
 A = 100
 N = 900
@@ -46,7 +47,7 @@ N = 900
 - Or our population was more aggressive?
 - Varying values for t1, k1, and k2 while everything else constant
 
-[Model Code](https://colab.research.google.com/drive/1ciyPTq1ldpTh46roqtWqZkvdW2fFYayx?usp=sharing)
+[**Model Code**](https://colab.research.google.com/drive/1ciyPTq1ldpTh46roqtWqZkvdW2fFYayx?usp=sharing)
 
 ## Observations
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/scudem/results.png)
@@ -55,5 +56,7 @@ N = 900
 - This means that punishment that results in people changing and becoming less aggressive results in the highest neutral population
 - Furthermore, we want to avoid excessive punishment as this ultimately hurts the population which results in the lowest neutral population
 
-## Explanation
-[Youtube](https://www.youtube.com/watch?v=BgyvjgL54UI)
+## Video Explanation
+[**Youtube**](https://www.youtube.com/watch?v=BgyvjgL54UI)
+
+Thank you.
