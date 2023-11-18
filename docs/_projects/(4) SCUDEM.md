@@ -6,6 +6,7 @@ description: Math Modeling Competition Submission for SCUDEM - SIMIODE Challenge
 ---
 
 # Punishing Infants
+
 ### Problem Statement:
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/scudem/scudem-2-1.png)
 ### Summary of Problem:
@@ -35,19 +36,20 @@ description: Math Modeling Competition Submission for SCUDEM - SIMIODE Challenge
 
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/scudem/markov.png)
 
+
 ## Simulation
+[**Model Code**](https://colab.research.google.com/drive/1ciyPTq1ldpTh46roqtWqZkvdW2fFYayx?usp=sharing)
 We implemented our simulation through Python in Jupyter, and using 100 iterations with the initial sample variables of:
 
-I = 0
-A = 100
-N = 900
+- I = 0
+- A = 100
+- N = 900
 ### Simulation Goals
 - What would happen if people stayed in jail longer? 
 - Or if jail better corrected behavior? 
 - Or our population was more aggressive?
 - Varying values for t1, k1, and k2 while everything else constant
 
-[**Model Code**](https://colab.research.google.com/drive/1ciyPTq1ldpTh46roqtWqZkvdW2fFYayx?usp=sharing)
 
 ## Observations
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/scudem/results.png)
@@ -58,6 +60,7 @@ N = 900
 
 ## Video Explanation
 [**Youtube**](https://www.youtube.com/watch?v=BgyvjgL54UI)
+
 [**Slides**](https://docs.google.com/presentation/d/1QXDd7EhSvdPiYO9JcSWWJtSskwC9-boLd_T40FAxojE/edit?usp=sharing)
 
 
