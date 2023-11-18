@@ -7,9 +7,15 @@ description: Math Modeling Competition Submission for SCUDEM - SIMIODE Challenge
 
 # Punishing Infants
 
-<object data="https://github.com/079035/079035.github.io/master/docs/_projects/scudem-2.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/079035/079035.github.io/master/docs/_projects/scudem-2.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/079035/079035.github.io/master/docs/_projects/scudem-2.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+### Problem Statement:
+
+![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/scudem-2-1.png)
+
+Summary of Problem:
+- Study done on the tendency to punish antisocial behavior
+- Researchers found that infants have the innate capacity to “punish” 
+- Infants will punish those who they believe are hurting others
+- Based on this we will assume that is a human trait
+- What does this natural tendency imply about society?
+- What does this say about the long-term dynamics of different populations?
 
