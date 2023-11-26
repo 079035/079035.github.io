@@ -7,6 +7,7 @@ description: Math Modeling Competition Submission for SCUDEM - SIMIODE Challenge
 
 # Punishing Infants
 
+
 ### Problem Statement:
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/scudem/scudem-2-1.png)
 ### Summary of Problem:
@@ -25,7 +26,7 @@ description: Math Modeling Competition Submission for SCUDEM - SIMIODE Challenge
 - There is the ability to change from one state to another
 - Punishment for the aggressors is incarceration
 
-## Model
+## Markov Model
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/scudem/model.png)
 - I = incarcerated
 - A = aggressive
