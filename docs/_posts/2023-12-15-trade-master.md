@@ -1,17 +1,17 @@
 ---
-title: "Paper Review: "TradeMaster""
+title: "Paper Review: TradeMaster"
 tags: research RL
 style: border
 color: info
 comments: true
-description: Paper reivew of NeurIPS-published "TradeMaster" (Sun, 2023)
+description: Paper reivew of NeurIPS-published TradeMaster (Sun, 2023)
 ---
 
 # Review of NeurIPS-Published “TradeMaster: A Holistic Quantitative Trading Platform Empowered by Reinforcement Learning”
 
 ## Abstract
 
-Recent advancements in Reinforcement Learning in Financial Trading (RLFT) have improved trading models, but implementing these in real-world markets remains challenging due to the intricate nature. Also, due to alpha decay phenomenon, financial practitioners are not keen to share their source code of their algorithms. The paper underscores the need for an open and comprehensive platform that can manage these complexities effectively. TradeMaster is a open-source platform that offers standardized implementations of a wide range of state-of-the-art RLFT algorithms. The [paper](https://personal.ntu.edu.sg/boan/papers/NeurIPS_23_TradeMaster.pdf) was written by [AMI](https://personal.ntu.edu.sg/boan/) team from ***Nanyang Technological University*** in Singapore. The code can be found here: https://github.com/TradeMaster-NTU/TradeMaster.
+Recent advancements in Reinforcement Learning in Financial Trading (RLFT) have improved trading models, but implementing these in real-world markets remains challenging due to the intricate nature. Also, due to alpha decay phenomenon, financial practitioners are not keen to share their source code of their algorithms. The paper underscores the need for an open and comprehensive platform that can manage these complexities effectively. TradeMaster is a open-source platform that offers standardized implementations of a wide range of state-of-the-art RLFT algorithms. The [paper](https://personal.ntu.edu.sg/boan/papers/NeurIPS_23_TradeMaster.pdf) was written by [AMI](https://personal.ntu.edu.sg/boan/) team from ***Nanyang Technological University*** in Singapore. The code can be found here: [Github](https://github.com/TradeMaster-NTU/TradeMaster).
 
 ## Introduction
 
