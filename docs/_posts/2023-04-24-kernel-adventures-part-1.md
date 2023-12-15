@@ -1,7 +1,7 @@
 ---
 title: "Hack the Box: Kernel Adventures: Part 1"
 tags: Kernel
-style: fill
+style: border
 color: primary
 comments: true
 description: Double fetch / race condition
