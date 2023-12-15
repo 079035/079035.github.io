@@ -36,7 +36,7 @@ As shown in Figure 1, TradeMaster formulates a scenario detailing an agent (inve
 
 Specifically, where $$S$$ is the finite set of state, $$A$$ is a finite set of actions, $$P=S\times A\times S\rightarrow[0,1]$$ is a state transition function, $$R:S\times A\rightarrow\mathbb R$$ is the reward function, $$\gamma\in[0,1)$$ is the discount factor, and $$H$$ is the time horizon indicating the length of the trading period. A stationary policy $$\pi_\theta:S\times A\rightarrow[0,1]$$, parameterized by $$\theta$$, assigns each state in $$S$$ a distribution over actions where $$a\in A$$ has probability $$\pi(a\|s\in S)$$. 
 
-The goal of the agent is to find the optimal policy that maximizes the expected sum of discounted reward: $$\pi_{\theta ^ *}=\argmax_{\pi_\theta}\mathbb E_{\pi_\theta}[\sum^T_{i=0}\gamma^ir_{t+i}\|s_t=s]$$. The above representation of the MDP only formulates a general version. Being a holistic platform, TradeMaster can cover a wide range of trading scenarios.
+The goal of the agent is to find the optimal policy that maximizes the expected sum of discounted reward: $$\pi_{\theta ^ *}=argmax_{\pi_\theta}\mathbb E_{\pi_\theta}[\sum^T_{i=0}\gamma^ir_{t+i}\|s_t=s]$$. The above representation of the MDP only formulates a general version. Being a holistic platform, TradeMaster can cover a wide range of trading scenarios.
 
 ## TradeMaster’s Design Principles and Components
 
