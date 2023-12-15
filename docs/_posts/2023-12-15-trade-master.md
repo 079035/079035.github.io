@@ -32,7 +32,7 @@ TradeMaster utilizes Markov Decision Process (MDP) to formulate quantitative tra
 
 > Figure 1: MDP formulation in RLFT
 
-As shown in Figure 1, TradeMaster formulates a scenario detailing an agent (investor) interacting with an environment (the financial markets) in discrete time to make actions (investment decision) and get reward (profits). The paper formally defines the MDP as a 6-tuple: $$(S,A,P,R,\gamma,H)$$. 
+As shown in Figure 1, TradeMaster formulates a scenario detailing an agent (investor) interacting with an environment (the financial markets) in discrete time to make actions (investment decision) and get reward (profits). The paper formally defines the MDP as a 6-tuple: $$(S,A,P,R,\gamma,H)$$.
 
 Specifically, where $$S$$ is the finite set of state, $$A$$ is a finite set of actions, $$P=S\times A\times S\rightarrow[0,1]$$ is a state transition function, $$R:S\times A\rightarrow\mathbb R$$ is the reward function, $$\gamma\in[0,1)$$ is the discount factor, and $$H$$ is the time horizon indicating the length of the trading period. 
 
