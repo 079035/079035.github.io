@@ -1,6 +1,6 @@
 ---
 title: "Paper Review: "TradeMaster""
-tags: Research Reinforcement_Learning
+tags: research RL
 style: border
 color: info
 comments: true
