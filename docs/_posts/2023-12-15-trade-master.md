@@ -31,11 +31,12 @@ TradeMaster utilizes Markov Decision Process (MDP) to formulate quantitative tra
 
 
 > Figure 1: MDP formulation in RLFT
-> 
 
-As shown in Figure 1, TradeMaster formulates a scenario detailing an agent (investor) interacting with an environment (the financial markets) in discrete time to make actions (investment decision) and get reward (profits). The paper formally defines the MDP as a 6-tuple: $(S,A,P,R,\gamma,H)$. Specifically, where $S$ is the finite set of state, $A$ is a finite set of actions, $P=S\times A\times S\rightarrow[0,1]$ is a state transition function, $R:S\times A\rightarrow\mathbb R$ is the reward function, $\gamma\in[0,1)$ is the discount factor, and $H$ is the time horizon indicating the length of the trading period. A stationary policy $\pi_\theta:S\times A\rightarrow[0,1]$, parameterized by $\theta$, assigns each state in $S$ a distribution over actions where $a\in A$ has probability $\pi(a|s\in S)$. The goal of the agent is to find the optimal policy that maximizes the expected sum of discounted reward: $\pi_{\theta^*}=\argmax_{\pi_\theta}\mathbb E_{\pi_\theta}[\sum^T_{i=0}\gamma^ir_{t+i}|s_t=s]$.
+As shown in Figure 1, TradeMaster formulates a scenario detailing an agent (investor) interacting with an environment (the financial markets) in discrete time to make actions (investment decision) and get reward (profits). The paper formally defines the MDP as a 6-tuple: $(S,A,P,R,\gamma,H)$. 
 
-The above representation of the MDP only formulates a general version. Being a holistic platform, TradeMaster can cover a wide range of trading scenarios.
+Specifically, where $S$ is the finite set of state, $A$ is a finite set of actions, $P=S\times A\times S\rightarrow[0,1]$ is a state transition function, $R:S\times A\rightarrow\mathbb R$ is the reward function, $\gamma\in[0,1)$ is the discount factor, and $H$ is the time horizon indicating the length of the trading period. A stationary policy $\pi_\theta:S\times A\rightarrow[0,1]$, parameterized by $\theta$, assigns each state in $S$ a distribution over actions where $a\in A$ has probability $\pi(a|s\in S)$. 
+
+The goal of the agent is to find the optimal policy that maximizes the expected sum of discounted reward: $\pi_{\theta^*}=\argmax_{\pi_\theta}\mathbb E_{\pi_\theta}[\sum^T_{i=0}\gamma^ir_{t+i}|s_t=s]$. The above representation of the MDP only formulates a general version. Being a holistic platform, TradeMaster can cover a wide range of trading scenarios.
 
 ## TradeMaster’s Design Principles and Components
 
@@ -45,7 +46,6 @@ TradeMaster is built on three design principles: prioritizing pipeline over algo
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/images/trademaster/design.png)
 
 > Figure 2: Overview of the TradeMaster platform, which includes six key components for RLFT
-> 
 
 TradeMaster includes diverse data sources, efficient preprocessing, realistic market environments, systematic evaluations, and multiple user interfaces. All these components are interlaced within TradeMaster, enabling successful execution of the platform, as shown in Figure 2.
 
@@ -59,15 +59,13 @@ TradeMaster does an excellent job in simulating various market environments. Eva
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/images/trademaster/benchmark.png)
 
 > Table 1: Performance comparison (mean of 5 individual runs) on the US stock market of 8 RLFT algorithms in terms of 8 financial metrics. Pink and green indicate best and second best results
-> 
 
 Table 1 shows an example of US stock market of 8 RLFT algorithms and compares their performance across 8 different 8 financial metrics. 
 
 
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/images/trademaster/datasplit.png)
 
-> Figure 3: Demonstration of Data Split
-> 
+> Figure 3: Demonstration of Data Split 
 
 TradeMaster splits the training phases into 3 phases. The paper follows the rolling data split paradigm. The code implementation of building environments for train/valid/test looks like this:
 
@@ -85,7 +83,6 @@ test_env = build_env(cfg, dataset, default_args=dict(..., task="test"))
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/images/trademaster/rank.png)
 
 > Figure 4: Rank distribution in terms of 4 financial metrics on the US stock market
-> 
 
 The paper plots the rank distribution of 8 RLFT methods in terms of Total Return (TR), Sharpe Ratio (SR), volatility (VOL), and Entropy (ENT) across 3 test periods with results of 5 random seeds in each period. The $i$-th column in the rank distribution plot shows the probability that a given method is ranked at $i$-th place in the corresponding metrics. For Figure 4, the example shows that TD3 slightly outperforms DDPG for TR and SR.
 
@@ -97,7 +94,6 @@ The paper further test its platform’s risk-control and reliability by picking 
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/images/trademaster/performance.png)
 
 > Figure 5: Performance of RLFT methods during extreme market conditions
-> 
 
 Figure 5 plots the TR and SR during the period of extreme market conditions- where the red line indicates market average. Most reinforcement learning methods achieves similar performance as they tend to be conservative during extreme market conditions. However, more radical methods like EIIE and SARL shows that they are more suitable options.
 
@@ -150,7 +146,6 @@ A few of the biggest takeaways from TradeMaster is their standardized implementa
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/images/trademaster/comparison.png)
 
 > Table 2: Comparison of TradeMaster and existing trading platforms. # indicates "the number of"
-> 
 
 The fact that it is a pioneer in reinforcement learning trading platform like no-other, bridges the gap between reinforcement learning in finance in academic research and real-world deployment. As shown in Table 2, TradeMaster includes an extensive amounts of functionalities that other previous platforms lack. 
 
