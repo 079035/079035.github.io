@@ -2,7 +2,7 @@
 title: "Paper Review: TradeMaster"
 tags: research RL
 style: border
-color: info
+color: warning
 comments: true
 description: Paper reivew of NeurIPS-published TradeMaster (Sun, 2023)
 ---
