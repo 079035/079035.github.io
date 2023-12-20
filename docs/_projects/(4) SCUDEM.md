@@ -1,7 +1,7 @@
 ---
 name: Punishing Infants
 tools: [Math Modeling, Markov Chain, Matplotlib]
-image: https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/scudem/model.png
+image: https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/assets/model.png
 description: Math Modeling Competition Submission for SCUDEM - SIMIODE Challenge Using Differential Equations Modeling
 ---
 
@@ -9,7 +9,7 @@ description: Math Modeling Competition Submission for SCUDEM - SIMIODE Challenge
 
 
 ### Problem Statement:
-![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/scudem/scudem-2-1.png)
+![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/assets/scudem-2-1.png)
 ### Summary of Problem:
 - Study done on the tendency to punish antisocial behavior
 - Researchers found that infants have the innate capacity to “punish” 
@@ -27,7 +27,7 @@ description: Math Modeling Competition Submission for SCUDEM - SIMIODE Challenge
 - Punishment for the aggressors is incarceration
 
 ## Markov Model
-![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/scudem/model.png)
+![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/assets/model.png)
 - I = incarcerated
 - A = aggressive
 - N = not-aggressive (neutral)
@@ -35,7 +35,7 @@ description: Math Modeling Competition Submission for SCUDEM - SIMIODE Challenge
 - k2 is the proportion of neutral people who become aggressive
 - t1 is the proportion of people who stay incarcerated
 
-![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/scudem/markov.png)
+![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/assets/markov.png)
 
 
 ## Simulation
@@ -55,7 +55,7 @@ We implemented our simulation through Python in Jupyter, and using 100 iteration
 
 
 ## Observations
-![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/scudem/results.png)
+![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/assets/results.png)
 
 - Within our model, effective punishments are ideal
 - This means that punishment that results in people changing and becoming less aggressive results in the highest neutral population
