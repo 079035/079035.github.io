@@ -7,7 +7,7 @@ description: Anonymized submission for 2024 IEEE Symposium on Security and Priva
 
 # ARVO: Atlas of Reproducible Vulnerabilities for Open Source Software
 
-[link](https://winter.sp2024.ieee-security.org/u/1/doc/sp2024winter-paper409.pdf)
+[link to submission](https://winter.sp2024.ieee-security.org/u/1/doc/sp2024winter-paper409.pdf)
 
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/assets/ARVO/Paper_Draft_ARVO-1.png)
 ![alt text](https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/assets/ARVO/Paper_Draft_ARVO-2.png)
