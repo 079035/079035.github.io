@@ -2,7 +2,8 @@
 name: "ARVO: Atlas of Reproducible Vulnerabilities for Open Source Software"
 tools: [Python, Docker, C++, LLM]
 image: https://raw.githubusercontent.com/079035/079035.github.io/master/docs/images/front-1.png
-description: Anonymized submission for 2024 IEEE Symposium on Security and Privacy. Conducted evaluations of large language models to automatically repair scraped open-source bugs.
+description: Submission for 2024 IEEE Symposium on Security and Privacy. Conducted evaluations of large language models to automatically repair scraped open-source bugs.
+external_url: https://079035.github.io/images/Paper_Draft_ARVO.pdf
 ---
 
 # ARVO: Atlas of Reproducible Vulnerabilities for Open Source Software
