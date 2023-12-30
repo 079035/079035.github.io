@@ -2,7 +2,7 @@
 name: Punishing Infants
 tools: [Math Modeling, Markov Chain, Matplotlib]
 image: https://raw.githubusercontent.com/079035/079035.github.io/master/docs/_projects/assets/model.png
-description: 'Meritorious' award at SIMIODE Challenge Using Differential Equations Modeling Competition
+description: "Meritorious" award at SIMIODE Challenge Using Differential Equations Modeling Competition
 ---
 
 # Punishing Infants
