@@ -1,11 +1,11 @@
-- name: Math Modeling
-  percentage: 80
+- name: Machine Learning
+  percentage: 85
   color: info
 
-- name: Machine Learning
+- name: High Performance Computing
   percentage: 75
   color: warning
 
-- name: High Performance Computing
-  percentage: 50
+- name: Math Modeling
+  percentage: 65
   color: success
