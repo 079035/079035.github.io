@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : 079
 description         : >-
-                      Interesting projects, competition recaps, and articles on updates and new findings!
+                      A collection of my personal/collaborative projects in machine learning and quantitative finance, competition recaps, and exploration on new researches!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : 079035/079035.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : 079035/portfolYOU
