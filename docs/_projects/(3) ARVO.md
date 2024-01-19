@@ -2,7 +2,7 @@
 name: "(Paper) ARVO: Atlas of Reproducible Vulnerabilities for Open Source Software"
 tools: [Python, Docker, C++, LLM]
 image: https://raw.githubusercontent.com/079035/079035.github.io/master/docs/images/front-1.png
-description: Mei, Del Castillo, Xi, Pearce, Dolan-Gavitt. Submission for 2024 IEEE Symposium on Security and Privacy.
+description: Submission for 2024 IEEE Symposium on Security and Privacy.
 external_url: https://079035.github.io/images/Paper_Draft_ARVO.pdf
 ---
 
