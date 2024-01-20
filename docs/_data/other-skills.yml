@@ -1,11 +1,11 @@
-- name: Machine Learning
-  percentage: 85
+- name: Machine/deep Learning
+  percentage: 80
   color: info
 
-- name: High Performance Computing
-  percentage: 75
+- name: Mathematics in Finance
+  percentage: 70
   color: warning
 
-- name: Math Modeling
-  percentage: 65
+- name: High Performance Computing
+  percentage: 60
   color: success
