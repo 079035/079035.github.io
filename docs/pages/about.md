@@ -9,11 +9,11 @@ weight: 3
 
 Hi I am Jordi :wave:,<br>
 
-I am working on getting better at machine learning, software engineering, and math in finance in general.<br>
+I love working with machine/deep learning, mathematics in finance, and software engineering.<br>
 I tend of focus on model-bulding and puzzle-like challenges.<br>
-And I try to expose myself to a various types of challenges that interests me(LLM, kernel programming, cybersecurity):smile:.<br>
+I am also always willing to expose myself to a various types of new fields that interests me (currently: neurotechnology, large language models, high performance computing) :smile:.<br>
 
-All source code for this website can be accessed [here](https://github.com/079035/079035.github.io/tree/master/docs).<br>
+All source code for this website can be accessed [here](https://github.com/079035/079035.github.io/).<br>
 And for any questions, I can be reached out here! jordi.d@nyu.edu <br>
 
 Thank you for your interest.
