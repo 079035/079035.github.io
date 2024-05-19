@@ -2,10 +2,10 @@
   percentage: 80
   color: info
 
+- name: Natural Language Processing
+  percentage: 70
+  color: warning
+
 - name: Quantum Computing
   percentage: 65
   color: success
-
-- name: High Performance Computing
-  percentage: 65
-  color: warning
