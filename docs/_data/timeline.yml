@@ -1,7 +1,7 @@
 - title: Software Engineer Intern, Lockheed Martin, US
   from: 2020
   to: 2021
-  description: Cloud Computing and IoT Application Development
+  description: Cloud Computing and Machine Vision Application Development
 
 - title: Student, NYU CS & math, US
   from: 2021
@@ -21,4 +21,9 @@
 - title: Software Engineer Intern, JPMorgan Chase & Co., US
   from: 2023
   to: 2023
-  description: Flask API, Cloud, and LLM Projects
+  description: Flask API, Cloud, and LLM
+
+- title: Machine Learning Engineer Intern, DRW, US
+  from: 2024
+  to: 2024
+  description: LLM, NLP, MLOps, and HPC
