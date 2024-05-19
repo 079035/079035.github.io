@@ -1,11 +1,11 @@
 - name: Machine/Deep Learning
-  percentage: 70
+  percentage: 80
   color: info
 
-- name: High Performance Computing
-  percentage: 60
-  color: warning
-
 - name: Quantum Computing
-  percentage: 55
+  percentage: 65
   color: success
+
+- name: High Performance Computing
+  percentage: 65
+  color: warning
