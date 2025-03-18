@@ -9,7 +9,7 @@ weight: 3
 
 Hi I am Jordi :wave:,<br>
 
-I love working with machine/deep learning, mathematics in finance, and software engineering.<br>
+I love working with deep learning, mathematics in finance, and software engineering.<br>
 I tend of focus on model-bulding and puzzle-like challenges.<br>
 I am also always willing to expose myself to a various types of new fields that interests me (currently: large language models, quantum computing, and generative modeling) :smile:.<br>
 
