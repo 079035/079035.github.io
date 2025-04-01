@@ -14,7 +14,7 @@ I tend of focus on model-bulding and puzzle-like challenges.<br>
 I am also always willing to expose myself to a various types of new fields that interests me (currently: large language models, quantum computing, and generative modeling) :smile:.<br>
 
 All source code for this website can be accessed [here](https://github.com/079035/079035.github.io/).<br>
-My google scholar: [publications](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=tECnNr4AAAAJ&citation_for_view=tECnNr4AAAAJ:u-x6o8ySG0sC) <br>
+My google scholar: [publications](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=tECnNr4AAAAJ) <br>
 And for any questions, I can be reached out here! jordi.d@nyu.edu <br>
 
 Thank you for your interest.
