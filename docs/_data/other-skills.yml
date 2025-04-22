@@ -1,11 +1,8 @@
 - name: Machine/Deep Learning
-  percentage: 90
   color: info
 
 - name: Natural Language Processing
-  percentage: 85
   color: warning
 
 - name: Backend Development
-  percentage: 95
   color: success
