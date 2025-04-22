@@ -1,12 +1,9 @@
+- name: Python
+  color:
+  
 - name: C/C++
-  percentage: 95
   color: danger
 
-- name: Python
-  percentage: 90
-  color:
-
 - name: Java
-  percentage: 75
   color: secondary
   
